@@ -1,4 +1,4 @@
-package unidade1;
+package unidade2;
 
 import javax.swing.JOptionPane;
 
